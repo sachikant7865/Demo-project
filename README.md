@@ -1,6 +1,6 @@
-## FRT: Future ready talent project by Sachikanta Das.
+
 # Static web apps , web app used from microsoft azure.
-#future ready talent azure project link https://brave-rock-017865110.1.azurestaticapps.net/
+
 Here I have created a oral/ dental care website named "Dental Care a medical catagory" that will help to make people aware about oral issues and also there remedies.
 
 ## Home Page
